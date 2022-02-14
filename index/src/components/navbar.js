@@ -52,10 +52,10 @@ class Navbar extends React.Component {
                 </a>
                 <nav className={navcls}>
                     <ul className="list-unstyled">
-                        <li><a href="javascript:;" onClick={() => this.scrollToAnchor('about')}><i className="mr-10 icon-board"></i>自我描述</a></li>
+                        <li><a href="javascript:;" onClick={() => this.scrollToAnchor('about')}><i className="mr-10 icon-board"></i>自建服务器</a></li>
                         <li><a href="javascript:;" onClick={() => this.scrollToAnchor('work-experience')}><i className="mr-10 icon-office"></i>工作经历</a></li>
                         <li><a href="javascript:;" onClick={() => this.scrollToAnchor('education')}><i className="mr-10 icon-graduation-cap"></i>教育经历</a></li>
-                        <li><a href="javascript:;" onClick={() => this.scrollToAnchor('project-experience')}><i className="mr-10 icon-child"></i>项目经验</a></li>
+                        <li><a href="javascript:;" onClick={() => this.scrollToAnchor('project-experience')}><i className="mr-10 icon-child"></i>Bilibili</a></li>
                         <li><a href="javascript:;" onClick={() => this.scrollToAnchor('publications')}><i className="mr-10 icon-newspaper"></i>作品展示</a></li>
                         <li><a href="javascript:;" onClick={() => this.scrollToAnchor('skills')}><i className="mr-10 icon-tools"></i>技能评价</a></li>
                         <li><a href="javascript:;" onClick={() => this.scrollToAnchor('awards')}><i className="mr-10 icon-trophy"></i>荣誉证书</a></li>
