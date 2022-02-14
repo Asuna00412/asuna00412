@@ -8,7 +8,7 @@ export default {
         'label': '我就是那种啥都只会一点点的人',
         'picture': 'https://s2.loli.net/2022/02/13/5pmwcEByjZW4gb9.jpg',
         'email': 'jimingyujoypark@gmail.com',
-        'phone': '+1 ‪(731) 400-0990',
+        'phone': '+1 ‪731 400-0990',
         'website': 'love.asukena.com',
         'summary': [
             'Openwrt',
