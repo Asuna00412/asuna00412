@@ -1,27 +1,29 @@
 export default {
     'basics': {
-        'position': 'Web 前端工程师',
-        'name': '郭海龙',
+        'position': '摄影师 律师 公仆',
+        'name': 'Asuna',
         'gender': '男',
-        'age': '28',
-        'worklife': '3',
-        'label': '我是一个小胖子，没事就摸肚子',
-        'picture': 'http://www.lgstatic.com/i/image/M00/A1/9D/CgqKkVioBICAXXVyAABFXV8M2hw21.jpeg',
-        'email': '724355924@qq.com',
-        'phone': '18521708248',
-        'website': 'https://github.com/skyvow',
+        'age': '31',
+        'worklife': '12',
+        'label': '我就是那种啥都只会一点点的人',
+        'picture': 'https://s2.loli.net/2022/02/13/5pmwcEByjZW4gb9.jpg',
+        'email': 'jimingyujoypark@gmail.com',
+        'phone': '+1 ‪(731) 400-0990',
+        'website': 'love.asukena.com',
         'summary': [
-            '个人主攻 Web 前端和 NodeJS 开发，3年+前端开发经验，参与或独立开发过多个核心项目，项目类型涉及：电子商务、教育服务、企业管理、SPA 应用（PC/Moblie）等等',
-            '喜欢关注 Web 前端相关新技术（React、Angular、Vue...），对于新技术有很强的学习兴趣',
-            '喜欢折腾造轮子，有一些简单的开源项目，不定时会更新 Github 小项目 5k+ Star（https://github.com/skyvow）',
-            '热爱前端这份工作，也热爱一切美好的事物，对于我来说，是一种责任、是一种快乐'
+            'Openwrt',
+            'Truenas',
+            'Qbittorent',
+            'Portainer',
+            'TechXuexi',
+            'FileBrowser'
         ],
-        'location': '上海市浦东新区',
+        'location': '青岛市崂山区',
         'profiles': [
             {
                 'network': 'github',
-                'username': 'skyvow',
-                'url': 'https://github.com/skyvow'
+                'username': 'asuna00412',
+                'url': 'https://github.com/asuna00412'
             }
         ]
     },
